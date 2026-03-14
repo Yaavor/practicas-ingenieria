@@ -1,0 +1,25 @@
+# Reporte de Práctica: Mecánica de Fluidos
+
+**Estudiante:** Yaavor
+**Materia:** Física / Mecánica de Fluidos
+
+---
+
+## 1. Determinación de la Densidad
+En esta sesión de laboratorio, realizamos la medición de masa y volumen para calcular la densidad de diversas sustancias utilizando la relación fundamental:
+
+$$\rho = \frac{m}{V}$$
+
+Donde:
+* $\rho$ es la densidad de la sustancia ($kg/m^3$).
+* $m$ es la masa medida en la balanza ($kg$).
+* $V$ es el volumen ocupado en el matraz ($m^3$).
+
+### Tabla de Resultados
+| Muestra | Masa (g) | Volumen (ml) | Densidad ($g/ml$) |
+| :--- | :---: | :---: | :---: |
+| Agua Destilada | 10.02 | 10.0 | 1.002 |
+| Alcohol Etílico | 7.89 | 10.0 | 0.789 |
+
+---
+*Documento generado con Markdown y LaTeX.*
